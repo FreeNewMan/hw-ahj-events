@@ -1,0 +1,1 @@
+.container{display:grid;gap:10px;grid-template:120px 120px 120px 120px/120px 120px 120px 120px}.container>div{background:#000;border-radius:50px;height:120px;width:120px}.score{display:inline-block;height:25px;padding:5px;width:25px}.hits{background:#90ee90}.fails{background:#ffb6c1}.scoreBoard{margin-top:10px;text-align:center;width:500px}
